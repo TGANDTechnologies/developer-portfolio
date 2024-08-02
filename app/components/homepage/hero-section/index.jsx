@@ -24,9 +24,9 @@ function HeroSection() {
         <div className="order-2 lg:order-1 flex flex-col items-start justify-center p-2 pb-20 md:pb-10 lg:pt-10">
           <h1 className="text-3xl font-bold leading-10 text-white md:font-extrabold lg:text-[2.6rem] lg:leading-[3.5rem]">
             Hello, <br />
-            This is {' '}
+            I'm {' '}
             <span className=" text-pink-500">{personalData.name}</span>
-            {` , I'm a Professional `}
+            {` , a Professional `}
             <span className=" text-[#16f2b3]">{personalData.designation}</span>
             .
           </h1>
@@ -108,30 +108,27 @@ function HeroSection() {
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">name:</span>
                 <span className="text-gray-400">{`'`}</span>
-                <span className="text-amber-300">Abu Said</span>
+                <span className="text-amber-300">David Bougard</span>
                 <span className="text-gray-400">{`',`}</span>
               </div>
               <div className="ml-4 lg:ml-8 mr-2">
                 <span className=" text-white">skills:</span>
-                <span className="text-gray-400">{`['`}</span>
-                <span className="text-amber-300">React</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">NextJS</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Redux</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Express</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">NestJS</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">MySql</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">MongoDB</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Docker</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">AWS</span>
-                <span className="text-gray-400">{"'],"}</span>
+                <span className="text-gray-400">{`[`}</span><br></br>
+                <span className="text-amber-300 ml-6" >{`'`}Software Development</span>
+                <span className="text-gray-400">{"',"}</span><br></br>
+                <span className="text-amber-300 ml-6" >{`'`}Video Game Development</span>
+                <span className="text-gray-400">{"',"}</span><br></br>
+                <span className="text-amber-300 ml-6" >{`'`}Artificial Intelligence</span>
+                <span className="text-gray-400">{"',"}</span><br></br>
+                <span className="text-amber-300 ml-6" >{`'`}Business Strategy</span>
+                <span className="text-gray-400">{"',"}</span><br></br>
+                <span className="text-amber-300 ml-6" >{`'`}Product Development</span>
+                <span className="text-gray-400">{"',"}</span><br></br>
+                <span className="text-amber-300 ml-6" >{`'`}Marketing Strategy</span>
+                <span className="text-gray-400">{"',"}</span><br></br>
+                <span className="text-amber-300 ml-6" >{`'`}Sales Development</span>
+                <span className="text-gray-400">{"'"}</span><br></br>
+                <span className="text-gray-400 ml-12">{"],"}</span><br></br>
               </div>
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">hardWorker:</span>

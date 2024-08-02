@@ -1,20 +1,14 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Bachelor of Science",
+    duration: "c/o 2014",
+    institution: "Lehigh University P.C. Rossin College of Engineering & Applied Science",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
-  },
-  {
-    id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Masters in Engineering",
+    duration: "c/o 2018",
+    institution: "Lehigh University P.C. Rossin College of Engineering & Applied Science",
   }
 ]
